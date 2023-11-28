@@ -8,7 +8,7 @@
   Ron Weasely.
 
   **The first Harry Potter Movie was released in the Philippines 2 years before I was born.**
-
+I need to highlight these ==very important words==.
 
 # Favorite Series
 ## **Modern Family**
